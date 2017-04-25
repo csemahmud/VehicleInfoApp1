@@ -1,0 +1,8 @@
+E:\VehicleInfoApp1\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+E:\VehicleInfoApp1\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+E:\VehicleInfoApp1\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+E:\VehicleInfoApp1\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+G:\VehicleInfoApp1\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+G:\VehicleInfoApp1\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+G:\VehicleInfoApp1\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+G:\VehicleInfoApp1\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
